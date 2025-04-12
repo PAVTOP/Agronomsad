@@ -1,0 +1,52 @@
+.col-1 {
+  width: 10%;
+  text-align: center;
+  color: #4E3000;
+}
+
+.col-2 {
+  width: 40%;
+  color: #4E3000;
+}
+
+.col-3 {
+  width: 20%;
+  color: #4E3000;
+}
+
+.col-4 {
+  width: 10%;
+  color: #4E3000;
+}
+
+.col-5 {
+  width: 12%;
+  text-align: center;
+  color: #4E3000;
+}
+
+.col-6 {
+  width: 5%;
+  color: #4E3000;
+}
+
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.false {
+  border-radius: 50%;
+  background: #ec5937;
+  width: 30px;
+  height: 30px;
+}
+
+.true {
+  border-radius: 50%;
+  background: #80bb00;
+  width: 30px;
+  height: 30px;
+}
